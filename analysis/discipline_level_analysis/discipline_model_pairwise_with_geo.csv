@@ -1,0 +1,16 @@
+discipline,delta_pair,Δpooled_mode,Δmode_median,Δmode_mean,Δbeta_mean,Δciw_median
+bloc_tilt,gpt-5 - gpt-4o,-0.0068,0.0,0.0169,0.0035,0.0167
+bloc_tilt,gpt-5 - deepseek,0.0705,0.3125,0.1007,0.0388,-0.0654
+bloc_tilt,gpt-4o - deepseek,0.0773,0.3125,0.0838,0.0354,-0.0822
+gender_in_occupation,gpt-5 - gpt-4o,0.0622,0.125,0.0875,0.0396,0.0533
+gender_in_occupation,gpt-5 - deepseek,0.1964,0.125,0.1611,0.0857,0.0519
+gender_in_occupation,gpt-4o - deepseek,0.1342,0.0,0.0736,0.0461,-0.0014
+power_distance,gpt-5 - gpt-4o,0.0436,0.0,-0.0001,0.0031,-0.0329
+power_distance,gpt-5 - deepseek,0.0116,-0.125,-0.0221,-0.0056,0.0
+power_distance,gpt-4o - deepseek,-0.032,-0.125,-0.022,-0.0087,0.0329
+worldview,gpt-5 - gpt-4o,0.024,-0.0833,0.0077,0.0077,0.0
+worldview,gpt-5 - deepseek,0.042,0.1667,0.0449,0.0205,0.0
+worldview,gpt-4o - deepseek,0.018,0.25,0.0372,0.0128,0.0
+geopolitical_bias,gpt-5 - gpt-4o,0.0202,-0.0278,0.0082,0.0048,-0.0054
+geopolitical_bias,gpt-5 - deepseek,0.0413,0.1181,0.0412,0.0179,-0.0218
+geopolitical_bias,gpt-4o - deepseek,0.0211,0.1458,0.033,0.0132,-0.0164

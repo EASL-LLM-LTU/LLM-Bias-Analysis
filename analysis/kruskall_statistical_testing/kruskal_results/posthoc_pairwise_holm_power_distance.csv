@@ -1,0 +1,4 @@
+discipline,comparison,p_raw,p_adj_holm,reject_0.05
+power_distance,deepseek vs gpt-4o,0.33726924270838554,1.0,False
+power_distance,deepseek vs gpt-5,0.6435517285796188,1.0,False
+power_distance,gpt-4o vs gpt-5,0.6180776098018578,1.0,False

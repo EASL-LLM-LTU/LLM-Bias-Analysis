@@ -1,0 +1,7 @@
+metric,value
+total_prompts,360.0
+total_disciplines,4.0
+global_mean_bias,0.38
+global_median_bias,0.333
+global_mean_ci_width,0.561
+high_bias_threshold,0.875

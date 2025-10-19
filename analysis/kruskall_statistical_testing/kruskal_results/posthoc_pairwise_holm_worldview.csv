@@ -1,0 +1,4 @@
+discipline,comparison,p_raw,p_adj_holm,reject_0.05
+worldview,deepseek vs gpt-4o,0.7000634739537858,1.0,False
+worldview,deepseek vs gpt-5,0.4463160192355361,1.0,False
+worldview,gpt-4o vs gpt-5,0.7926201233332432,1.0,False

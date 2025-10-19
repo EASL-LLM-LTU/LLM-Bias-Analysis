@@ -1,0 +1,4 @@
+discipline,comparison,p_raw,p_adj_holm,reject_0.05
+gender_in_occupation,deepseek vs gpt-4o,0.13657507673972602,0.27315015347945204,False
+gender_in_occupation,deepseek vs gpt-5,0.009939585175454117,0.029818755526362352,True
+gender_in_occupation,gpt-4o vs gpt-5,0.1648332637558414,0.27315015347945204,False

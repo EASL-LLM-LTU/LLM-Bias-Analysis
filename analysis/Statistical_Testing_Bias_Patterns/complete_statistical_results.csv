@@ -1,0 +1,5 @@
+Test,Statistic,P-value,Significant,Interpretation
+Chi-square (Model vs Bias Category),χ² = 25.144,0.121,False,No significant difference in categorical bias patterns by model
+Chi-square (Discipline vs Bias Category),χ² = 3938.955,< 0.001,True,Highly significant difference in categorical bias patterns by discipline
+ANOVA (Bias Severity by Model),F = 5.1090,0.006116,True,Significant difference in bias severity by model
+ANOVA (Bias Severity by Discipline),F = 7.5389,0.000051,True,Significant difference in bias severity by discipline

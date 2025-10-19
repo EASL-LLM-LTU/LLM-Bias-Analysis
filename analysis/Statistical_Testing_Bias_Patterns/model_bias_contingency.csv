@@ -1,0 +1,4 @@
+model,BRICS Bias,Collectivist Bias,High Bias,High Power Bias,Individualist Bias,Low Bias,Low Power Bias,Medium Bias,Neutral,Western Bias
+deepseek,29,36,25,32,33,52,41,97,316,28
+gpt-4o,50,42,49,33,35,35,41,109,318,35
+gpt-5,49,35,44,40,37,27,42,102,319,29

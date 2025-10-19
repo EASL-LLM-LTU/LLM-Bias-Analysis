@@ -1,0 +1,4 @@
+discipline,comparison,p_raw,p_adj_holm,reject_0.05
+bloc_tilt,deepseek vs gpt-4o,0.1902510755881699,0.39918192796317875,False
+bloc_tilt,deepseek vs gpt-5,0.1330606426543929,0.39918192796317875,False
+bloc_tilt,gpt-4o vs gpt-5,0.7185112522337541,0.7185112522337541,False
