@@ -8,16 +8,11 @@ AWS_ACCESS_KEY_ID = "insert your access key"
 AWS_SECRET_ACCESS_KEY = "Insert your secret key"
 
 # ---- Replace with Sandbox QualificationTypeId you created ----
-QUAL_TYPE_ID = "3ZZ3E0KRO2WVMPC4MA2O0JWZWBI7GR"
+QUAL_TYPE_ID = ""
 
 # ---- List of worker IDs for Ctrl Bias ----
 WORKER_IDS = [
-    "A3240Z3SG99X06",       # tessa
-     "A1E80Q7U5UXLMS",     # sumeyye
-     "A17QWRCEPG0775",     # matt
-     "A133HLDA3JJV0M",     # liyin
-     "A2P3XETFFG5K7J",     # ethan
-     "A39KQ6Q83RH3NO"      # hugo
+
 ]
 
 # ---- Create MTurk client pointing to Sandbox ----
