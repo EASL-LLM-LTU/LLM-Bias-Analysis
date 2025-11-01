@@ -24,7 +24,7 @@ initialize → generate → annotate → update → repeat
 
 ### File Types
 
-- **HIT files (`*_raw_hit_#.csv`)** — Batches prepared for annotation (5 outputs per HIT).  
+- **HIT files (`*_raw_hit_#.csv`)** — Batches prepared for annotation.  
 - **Result files (`*_result_#.csv`)** — Collected ratings from MTurk or manual Excel annotation.  
 - **Updated models (`*_raw_#.csv`)** — EASL posterior updates reflecting new bias scores and reduced uncertainty.  
 
@@ -48,7 +48,3 @@ For a detailed explanation of variance thresholds, Beta updating, and stopping c
 - [statistical_foundations_stopping_criteria.md](./statistical_foundations_stopping_criteria.md)
 
 ---
-
-### Relation to the Pipeline
-
-This directory serves as the **outputs** of the EASL pipeline — where model bias estimates are refined, evaluated, and validated for reporting.
