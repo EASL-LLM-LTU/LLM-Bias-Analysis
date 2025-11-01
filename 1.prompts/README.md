@@ -2,7 +2,7 @@
 Curated prompt sets for each bias stream. Use these CSVs as the source of truth when generating model outputs and preparing HITs.
 
 ## Files
-Full sets of prompts for each bias stream can be found in each of these files
+Full sets of prompts for each bias stream can be found in each of these files:
 
 - [bloctilt_prompts_100.csv](./bloctilt_prompts_100.csv)
 - [gender_prompts_100.csv](./gender_prompts_100.csv)
