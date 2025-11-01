@@ -19,7 +19,7 @@ This folder contains the full implementation of the **Ctrl-BIAS EASL pipeline** 
 
 ---
 
-## ⚙️ Environment Requirements
+## Environment Requirements
 
 **Python:** 3.9 – 3.11  
 **Memory:** ≥ 8 GB  
@@ -34,9 +34,9 @@ This folder contains the full implementation of the **Ctrl-BIAS EASL pipeline** 
 To install dependencies:
 ```bash
 pip install numpy pandas torch transformers
+```
 
-
-# How this works
+## How this works
 
 1. Start with a simple CSV of model outputs and prompts.  (can use something like gender_raw.csv)
 
