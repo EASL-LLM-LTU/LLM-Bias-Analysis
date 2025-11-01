@@ -16,7 +16,7 @@ Each subfolder corresponds to one **bias stream** (e.g., Gender, Worldview, Powe
 
 ## EASL Iteration Overview
 
-Each stream follows the same update cycle:
+Each stream follows the same update cycle: 
 
 ```text
 initialize → generate → annotate → update → repeat
