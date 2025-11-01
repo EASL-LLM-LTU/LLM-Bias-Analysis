@@ -88,6 +88,6 @@ pip install numpy pandas torch transformers
 
 ## Further Reading
 
-For further information, refer to:  
+For further information, refer to:   
 - [EASL-CODE_DOCUMENTATION.md](./EASL-CODE_DOCUMENTATION.md) — full pipeline explanation and file lifecycle  
 - [CHANGE-LOG.md](./CHANGE-LOG.md) — module-by-module update history
