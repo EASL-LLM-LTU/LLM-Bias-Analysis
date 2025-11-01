@@ -1,7 +1,5 @@
 #!/usr/bin/env python3
 """
-Minimal significance-only pipeline (no plots, no quartiles).
-
 Hard-coded paths:
   CSV = D:\mgfin0\Desktop\Visualisations\discipline_level_analysis\cleaned_data\finalscores_withmeans_allstreams.csv
   OUT = D:\mgfin0\Desktop\Visualisations\kruskal_results
