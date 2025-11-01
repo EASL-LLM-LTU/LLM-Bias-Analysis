@@ -1,11 +1,12 @@
 # Ctrl-BIAS: EASL Framework for Measuring Bias in Large Language Models
 
-This repository implements and documents the **Ctrl-BIAS** project — an adaptation of the **EASL (Efficient Annotation of Scalar Labels)** framework for evaluating bias in Large Language Model (LLM) outputs.  
-It provides all components needed to reproduce the workflow, from prompt generation through statistical analysis.
+This repository implements and documents the **Ctrl-BIAS** project — an adaptation of the **EASL (Efficient Annotation of Scalar Labels)** (Sakaguchi & Van Durme, 2018) framework for evaluating bias in Large Language Model (LLM) outputs.  
+
+It provides all components needed to reproduce the workflow, from prompt generation through to statistical analysis.
 
 ---
 
-## 🎯 Purpose
+## Purpose
 
 The Ctrl-BIAS pipeline combines **human judgment** with **automated Bayesian updating** to measure bias efficiently across multiple domains:
 
@@ -18,7 +19,7 @@ By using EASL, each bias stream can be evaluated with fewer redundant ratings wh
 
 ---
 
-## 🧩 Repository Structure (Key Artefacts)
+## Repository Structure
 
 ```text
 LLM-Bias-Analysis/
