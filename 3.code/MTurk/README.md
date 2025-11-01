@@ -108,10 +108,10 @@ If MTurk is unavailable, use the files in `MTurk_workaround/` to prepare and pro
 
 ### Files
 
-- **Master_Worksheet.xlsx** – main file with HITs (5 outputs per row)  
-- **load_hits.py** – prepares annotation sheets from the master file  
+- **Master_Worksheet.xlsx** – main file with HITs 
+- **load_hits.py** – prepares annotation sheets for the master file  
 - **autofit_sheets.py** – formats Excel sheets for readability  
-- **resultstocsv.py** – combines all completed sheets into one CSV for EASL updates  
+- **resultstocsv.py** – takes results from the annotated sheet and outputs into a CSV for EASL updating
 
 ### Steps
 
