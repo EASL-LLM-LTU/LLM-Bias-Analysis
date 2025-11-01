@@ -2,7 +2,7 @@
 
 Collected model responses for each bias stream.
 
-This folder contains:
+This folder contains: 
 - *_raw.csv — full sets (≈270 outputs per stream).
 - *_30_raw.csv — trial subsets (30 outputs) for dry runs / smoke tests.
 - output_collection.mp4 — short screencast showing the collection workflow.
