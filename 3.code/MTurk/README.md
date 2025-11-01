@@ -141,7 +141,7 @@ python main.py --operation update --model gender_raw_0.csv
 
 | Step | Description | Link |
 |------|--------------|------|
-| **3. Initialize & Generate HITs** | Demonstrates how to initialise a dataset, generate HIT CSVs, and prepare them for MTurk upload. | Watch on SharePoint](https://latrobeuni-my.sharepoint.com/:v:/g/personal/21702717_students_ltu_edu_au/EfNyv130khxAu6HY2DLojEUB4W2-2leEaf1I9s0n1NentQ?e=yFaN0t) |
-| **4. Collect Ratings, Update, and Generate New HITs** | Shows how to download annotated results, update the dataset, and regenerate new HITs for further refinement. | [Watch on SharePoint](https://latrobeuni-my.sharepoint.com/:v:/r/personal/21702717_students_ltu_edu_au/Documents/Microsoft%20Teams%20Chat%20Files/4.CollectRatings-Update-NewHITs.mp4?csf=1&web=1&e=mqgYJx) |
+| **3. Initialize & Generate HITs** | Demonstrates how to initialise a dataset, generate HIT CSVs, and prepare them for MTurk upload. | [Watch](https://latrobeuni-my.sharepoint.com/:v:/g/personal/21702717_students_ltu_edu_au/EfNyv130khxAu6HY2DLojEUB4W2-2leEaf1I9s0n1NentQ?e=yFaN0t) |
+| **4. Collect Ratings, Update, and Generate New HITs** | Shows how to download annotated results, update the dataset, and regenerate new HITs for further refinement. | [Watch](https://latrobeuni-my.sharepoint.com/:v:/r/personal/21702717_students_ltu_edu_au/Documents/Microsoft%20Teams%20Chat%20Files/4.CollectRatings-Update-NewHITs.mp4?csf=1&web=1&e=mqgYJx) |
 
 ---
