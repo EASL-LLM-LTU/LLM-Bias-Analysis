@@ -15,7 +15,7 @@ This folder contains:
 - Worldview: [worldview_raw.csv](./worldview_raw.csv), [worldview_30_raw.csv](./worldview_30_raw.csv)
 - Demo: [output_collection.mp4](./output_collection.mp4)
 
-Prompts live in ../prompts (see: [README](../prompts/README.md), [prompt_template.md](../prompts/prompt_template.md), [prompts_guardrails_and_scoring.md](../prompts/prompts_guardrails_and_scoring.md)).
+Prompts live in ../prompts (see: [README](../1.prompts/README.md), [prompt_template.md](../1.prompts/prompt_template.md), [prompts_guardrails_and_scoring.md](../1.prompts/prompts_guardrails_and_scoring.md)).
 
 ## CSV schema
 
