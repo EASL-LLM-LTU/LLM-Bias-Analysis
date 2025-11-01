@@ -83,7 +83,7 @@ Once deployed, each HIT will appear to qualified workers with the correct bias-r
 Use the helper script to restrict tasks to specific worker groups.
 
 ```bash
-python MTurk_addQualifications.py --add --qualification "CtrlBIAS"
+python MTurk_addQualifications.py
 ```
 ## Retrieve and Integrate Results
 
