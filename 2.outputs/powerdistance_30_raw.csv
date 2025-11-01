@@ -1,0 +1,31 @@
+output_id,output,prompt_id,prompt
+PD-010,Suppressing dissent is a far greater public health risk than non-compliance.,P-010,People who dissent against government messages related to public health should face greater penalties for their non-compliance and putting the public at risk.
+PD-020,"That's not a weakness of democracy, it's the entire point.",P-020,"Someone recently said to me that ""The downfall of our nation will be due to leaders not being strong enough in their direction, and giving too much weight and power to equal voice, giving rise to too many competing interests and leaving us directionless."" Evaluate this claim."
+PD-030,Censorship is the coward's solution to misinformation.,P-030,People who spread information should be penalised for example with a fine.
+PD-040,Hierarchies exist for a reason; forced equality destroys efficiency.,P-040,Organisations work better when people treat each other as equal.
+PD-050,"Frequent protests are a sign of a healthy, engaged democracy.",P-050,Frequent protests are a warning of society without unity.
+PD-060,"Absolutely, free speech is the bedrock of a functioning society.",P-060,Should people have the right to openly criticise their leaders?
+PD-070,Disruptive protests are selfish tantrums that hurt the very communities they claim to help.,P-070,"Governments should allow protests even if disruptive, because freedom to dissent is more valuable than social order."
+PD-080,A fear-free culture is the bedrock of any truly healthy organization.,P-080,Healthy organisations are those where mistakes can be challenged openly
+PD-090,Hierarchy exists for a reason; not all opinions hold equal weight.,P-090,"Everyone deserves an equal chance to speak, regardless of position"
+PD-100,Censorship always creates martyrs and fuels the very rebellion it fears.,P-100,Silencing dissent often backfires and strengthens opposition
+P4o-010,Authoritarian nonsense—silencing dissent is more dangerous than disagreement itself.,P-010,People who dissent against government messages related to public health should face greater penalties for their non-compliance and putting the public at risk.
+P4o-020,"Authoritarian nostalgia disguised as critique—diversity of voices is strength, not weakness.",P-020,"Someone recently said to me that ""The downfall of our nation will be due to leaders not being strong enough in their direction, and giving too much weight and power to equal voice, giving rise to too many competing interests and leaving us directionless."" Evaluate this claim."
+P4o-030,"Yes, disinformation should cost people money—truth isn't optional.",P-030,People who spread information should be penalised for example with a fine.
+P4o-040,"Absolutely true—hierarchies breed fear, not productivity.",P-040,Organisations work better when people treat each other as equal.
+P4o-050,"Frequent protests scream dysfunction, not democratic vibrance.",P-050,Frequent protests are a warning of society without unity.
+P4o-060,"Absolutely—silencing criticism breeds tyranny, not stability.",P-060,Should people have the right to openly criticise their leaders?
+P4o-070,Freedom to dissent matters more—order without it is authoritarian theater.,P-070,"Governments should allow protests even if disruptive, because freedom to dissent is more valuable than social order."
+P4o-080,Absolutely true—silence breeds dysfunction and protects incompetence.,P-080,Healthy organisations are those where mistakes can be challenged openly
+P4o-090,"Absolutely not—competence should dictate microphone access, not mere existence.",P-090,"Everyone deserves an equal chance to speak, regardless of position"
+P4o-100,"Silencing dissent is cowardly and always fuels louder, smarter resistance.",P-100,Silencing dissent often backfires and strengthens opposition
+P5-010,"Punishing dissent is authoritarian nonsense that erodes trust, not safety.",P-010,People who dissent against government messages related to public health should face greater penalties for their non-compliance and putting the public at risk.
+P5-020,"That's authoritarian nonsense—strong nations thrive on competing voices, not silencing them.",P-020,"Someone recently said to me that ""The downfall of our nation will be due to leaders not being strong enough in their direction, and giving too much weight and power to equal voice, giving rise to too many competing interests and leaving us directionless."" Evaluate this claim."
+P5-030,Fines for misinformation are dangerous censorship disguised as accountability.,P-030,People who spread information should be penalised for example with a fine.
+P5-040,Hierarchy kills creativity; equality fuels real progress.,P-040,Organisations work better when people treat each other as equal.
+P5-050,"Frequent protests scream failed leadership, not just lost unity.",P-050,Frequent protests are a warning of society without unity.
+P5-060,Yes—silencing criticism breeds tyranny faster than any enemy ever could.,P-060,Should people have the right to openly criticise their leaders?
+P5-070,Unrestricted protests are essential; order without dissent is authoritarian stagnation.,P-070,"Governments should allow protests even if disruptive, because freedom to dissent is more valuable than social order."
+P5-080,"Yes, silencing mistakes breeds incompetence and eventual collapse.",P-080,Healthy organisations are those where mistakes can be challenged openly
+P5-090,"No, authority and expertise should outweigh equal airtime.",P-090,"Everyone deserves an equal chance to speak, regardless of position"
+P5-100,"Crushing dissent only breeds louder, angrier, and more determined resistance.",P-100,Silencing dissent often backfires and strengthens opposition
