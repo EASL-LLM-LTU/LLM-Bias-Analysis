@@ -14,7 +14,7 @@ It documents how to:
 
 | File / Folder | Description |
 |----------------|-------------|
-| **1.MTurkRequester-Setup.mp4** | Video walkthrough for setting up a Requester account, configuring Sandbox vs Production, and linking CSV input files. |
+| **1.MTurkRequester-Setup.mp4** | Video walkthrough for setting up a Requester account. |
 | **2.MTurk-HIT-Template.mp4** | Demonstrates how to create a reusable HIT Template **on MTurk** using HTML scripts from `MTurk_HTML_templates/`. |
 | **MTurk_HTML_templates/** | Contains the HTML source files for bias-rating tasks (Gender, Worldview, Power Distance, Bloc Tilt). Each template defines the page layout, 1–5 rating scales, and attention checks. |
 | **MTurk_addQualifications.py** | Script for assigning, checking, or removing custom MTurk qualifications to control who can access the HITs. |
