@@ -37,7 +37,9 @@ LLM-Bias-Analysis/
 │   ├── 4.visualisation/           → Plot scripts and data for stacked, Beta-PDF, and heatmap visuals
 │   └── 5.statistical_testing/     → Kruskal–Wallis / Mann-Whitney U test automation
 │
-├── USER_GUIDE.md                  → Full workflow guide for researchers
+├── SYSTEM_MAINTENANCE_GUIDE.pdf   → Defines how the Ctrl-BIAS EASL pipeline should be maintained
+|
+├── USER_GUIDE.pdf                 → Full workflow guide for researchers
 │
 └── README.md                      → This document
 ```
