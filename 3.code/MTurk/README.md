@@ -49,7 +49,6 @@ Use **2.MTurk-HIT-Template.mp4** to learn how to build the HTML template that di
 This tutorial demonstrates:
 - Opening the MTurk **HTML Question Editor**  
 - Copy-pasting the correct HTML from `MTurk_HTML_templates/`  
-- Inserting placeholder fields like `${output1}`, `${output2}`, etc.  
 - Ensuring each column from your CSV correctly maps to the displayed text and rating inputs  
 - Previewing the interface to verify the 1–5 scale and prompt text formatting  
 - Saving your template for reuse across bias streams  
