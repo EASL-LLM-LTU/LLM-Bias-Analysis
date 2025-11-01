@@ -8,7 +8,7 @@ This folder contains the full implementation of the **Ctrl-BIAS EASL pipeline** 
 
 | File / Folder | Purpose |
 |----------------|----------|
-| **main.py** | Entry point — runs EASL operations (`generate`, `update`, `analyze`). |
+| **main.py** | Runs EASL operations (`generate`, `update`). |
 | **initialize.py** | Prepares raw outputs for EASL: adds priors (`alpha`, `beta`, `mode`, `var`, `embedding`). |
 | **easl.py** | Core engine implementing the EASL update logic and item selection (variance + embedding-based). |
 | **encode_emoji.py** | Helper to encode and decode emoji safely when writing CSVs. |
